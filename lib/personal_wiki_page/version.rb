@@ -1,0 +1,3 @@
+module PersonalWikiPage
+  VERSION = "0.0.1"
+end

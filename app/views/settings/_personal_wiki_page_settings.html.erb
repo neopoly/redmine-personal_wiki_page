@@ -1,0 +1,11 @@
+<p>
+  <%= label_tag :settings_project, l(:personal_wiki_page_project) %>
+  <%= text_field_tag "settings[project]", @settings["project"] %>
+  <span class="hint"><%= l(:personal_wiki_page_project_hint) %></span>
+</p>
+
+<p>
+  <%= label_tag :settings_prefix, l(:personal_wiki_page_prefix) %>
+  <%= text_field_tag "settings[prefix]", @settings["prefix"] %>
+  <span class="hint"><%= l(:personal_wiki_page_prefix_hint) %></span>
+</p>

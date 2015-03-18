@@ -1,0 +1,6 @@
+en:
+  personal_wiki_page_project: "Project"
+  personal_wiki_page_project_hint: "The identifer of the project which will contain the personal wiki pages"
+  personal_wiki_page_prefix: "Prefix of page names"
+  personal_wiki_page_prefix_hint: "e.g. PersonalWiki_"
+  personal_wiki_page_link: "Wiki"
