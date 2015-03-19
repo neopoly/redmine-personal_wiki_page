@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-personal_wiki_page
+[doc]: http://rubydoc.info/github/neopoly/redmine-personal_wiki_page/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-personal_wiki_page
+[gem-badge]: https://img.shields.io/gem/v/redmine-personal_wiki_page.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-personal_wiki_page
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg?branch=master&style=flat
+
 # redmine-personal_wiki_page
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Adds a link to a personal wiki page to Redmine's header
 
