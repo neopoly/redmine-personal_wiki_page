@@ -2,6 +2,8 @@
 
 Adds a link to a personal wiki page to Redmine's header
 
+![Screenshot](http://neopoly.github.io/redmine-personal_wiki_page/images/screenshot.png)
+
 ## Installation
 
 Ensure you have a `Gemfile.local` file in your Redmine installation. Add to your `Gemfile.local`:
